@@ -18,7 +18,7 @@ requirements_path = path.join(
 HEROKU_API_KEY = config.HEROKU_API_KEY
 HEROKU_APP_NAME = config.HEROKU_APP_NAME
 GIT_REPO_NAME = "javes-3.0"
-UPSTREAM_REPO_URL = "https://github.com/Sh1vam/javes-3.0"
+UPSTREAM_REPO_URL = "https://github.com/legendx22/javes3.0"
 
 async def gen_chlog(repo, diff):
     ch_log = ''
